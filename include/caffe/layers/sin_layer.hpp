@@ -26,6 +26,6 @@ protected:
     const vector<bool>& propagate_down, const vector<Blob<Dtype>*>& bottom);
 };
   
-}  // namespace caffe
+} 
 
-#endif  // CAFFE_SIN_LAYER_HPP_
+#endif  
